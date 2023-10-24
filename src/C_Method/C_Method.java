@@ -10,7 +10,7 @@ public class C_Method {
     static int add(){
         return 7+5;
     }
-
+// Method Overloading:
     public static void main(String[] args) {
         C_Method obj=new C_Method();
         obj.method();
